@@ -1,0 +1,33 @@
+/*******************Tag selectors***************/
+
+h1{
+  color:red;
+  font-size:40px;
+  opacity:.25;
+}
+
+img:hover {
+  background-color: red;
+
+  width: 300px;
+  height: 200px;
+
+  border-radius: 50%;
+}
+
+
+
+/***********************Class selectors****************/
+.bacon {
+  background-color: green;
+}
+
+.onion {
+  background-color: yellow;
+}
+
+/***************************ID selectors*******************/
+
+#heading{
+  font-style: italic;
+}
